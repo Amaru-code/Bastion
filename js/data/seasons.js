@@ -1,0 +1,1 @@
+export const SEASONS=[{name:'Frühling',farm:1.25,mine:1,castle:1,academy:1},{name:'Sommer',farm:1,castle:1.2,mine:1,academy:1},{name:'Herbst',mine:1.3,farm:1,castle:1,academy:1},{name:'Winter',farm:.75,mine:.8,castle:.8,academy:.9}];

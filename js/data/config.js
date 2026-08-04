@@ -1,0 +1,1 @@
+export const CONFIG={tickMs:250,seasonSeconds:35,researchThreshold:30,attackTravelSeconds:2.8,aiIntervalSeconds:4.5};

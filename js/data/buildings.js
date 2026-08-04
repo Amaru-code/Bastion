@@ -1,0 +1,1 @@
+export const BUILDINGS={castle:{name:'Burg',icon:'🏰',capacity:50,rate:1.2},farm:{name:'Farm',icon:'🌾',capacity:40,rate:2.4},mine:{name:'Mine',icon:'⛏️',capacity:20,rate:1.0},academy:{name:'Akademie',icon:'🎓',capacity:30,rate:1.0}};

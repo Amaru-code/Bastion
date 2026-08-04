@@ -1,0 +1,5 @@
+{
+  "scenario": 20,
+  "purpose": "reserved automated balance case",
+  "expected": "pending"
+}
